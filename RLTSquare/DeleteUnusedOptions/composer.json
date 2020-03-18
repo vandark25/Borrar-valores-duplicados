@@ -1,0 +1,16 @@
+{
+  "name": "rltsquare/deleteunusedoptions",
+  "description": "Module to delete unused product attribute options",
+  "type": "magento2-module",
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "RLTSquare\\DeleteUnusedOptions\\": ""
+    }
+  }
+}
